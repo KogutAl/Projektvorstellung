@@ -1,15 +1,18 @@
-# Projektvorstellung
-
-
 # Klangfarben
 (*Ein Projekt von Lisa Umlauft,Alexander Konrad und Janina D. Lettow*)
  &nbsp;
 ---
-### **Was ist Klangfarben?**
+### **Konzept**
 ---
+Kreiere eine Playlist, ordne Farben hinzu und kombiniere bis zu 8 von diesen auf einer kleinen Disc mit RFID tags.
 
-Create playlists, assign colours, then combine up to eight of them on one little disc sporting RFID tags. Get the perfect mix for your party, think tank or afternoon workout.
+RFID-Tag =
 
+- Technologie für Sender-Empfänger-Systeme
+- kontaktlose Lokaliserung und Übermittlung von Daten
+- Senden durch Antenne oder Mikrochip
+- Senden durch integrierte Schaltung (IC) möglich
+- Mikrochip wird mit den gewünschten Daten beschrieben
 
 ---
 ### **2) Wie benutze ich LEDs?**
