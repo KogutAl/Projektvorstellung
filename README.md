@@ -26,7 +26,8 @@ Ziel ist das Zufällige Abspielen von Liedern und eine Untermalung der Atmosphä
 Das Projekt zum nachlesen:
 <https://www.behance.net/gallery/17327583/Klangfarben?tracking_source=search_projects_recommended%7Cphysical%20computing>
 
-
+ &nbsp;
+---
 # Emotion Sensing
 #### (*Ein Projekt von Abijeet Pol und Midhu S. Valsan *)
  &nbsp;
