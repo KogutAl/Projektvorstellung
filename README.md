@@ -15,9 +15,7 @@ Create playlists, assign colours, then combine up to eight of them on one little
 ### **2) Wie benutze ich LEDs?**
 ---
  &nbsp;
-Um mit LED Birnen Licht zu erzeugen werden grundlegend die **LED-Birne**, ein **Strombegrenzungswiderstand** (*Resistor*) und natürlich eine **Energiequelle** gebraucht.
-
-### Der Anschluss funktioniert wie folgt :
+Your guests interact with Klangfarben through turning the record - randomised replay prevents the same songs playing over and over again. Different playlists are only distinguishable through colours, which could represent moods, genres, artists, or even memories you share with your friends. Let them play, guess the theme, and be surprised by that song they haven't heard in ages.
 
 
 - Die LED wird an eine Energiequelle (z.B. Batterie) angeschlossen/gelötet
