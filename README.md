@@ -1,5 +1,5 @@
 # Klangfarben
-###(*Ein Projekt von Lisa Umlauft,Alexander Konrad und Janina D. Lettow*)
+### (*Ein Projekt von Lisa Umlauft,Alexander Konrad und Janina D. Lettow*)
  &nbsp;
 ---
 ### **Konzept**
