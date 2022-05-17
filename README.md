@@ -13,7 +13,7 @@ RFID-Tag =
 - Senden durch Antenne oder Mikrochip
 - Senden durch integrierte Schaltung (IC) möglich
 - Mikrochip wird mit den gewünschten Daten beschrieben
-
+ &nbsp;
 ---
 ### **2) Wie funktioniert Klangfarben?**
 ---
@@ -22,6 +22,6 @@ Man erstellt Playlist-Themes und ordnet diesen bestimmte Farben zu. Z.B. nostalg
 Durch drehen des "Records" werden Songs abgespielt. "Zufälliges Replay" verhindert hier das ständige Wiederholen der selben Songs.
 Ziel ist das Zufällige Abspielen von Liedern und eine Untermalung der Atmosphäre durch die Farblichter.
 
-
+ &nbsp;
 Das Projekt zum nachlesen:
 <https://www.behance.net/gallery/17327583/Klangfarben?tracking_source=search_projects_recommended%7Cphysical%20computing>
