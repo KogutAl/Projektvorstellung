@@ -29,7 +29,7 @@ Das Projekt zum nachlesen:
  &nbsp;
 ---
 # Emotion Sensing
-#### (*Ein Projekt von Abijeet Pol und Midhu S. Valsan *)
+#### (*Ein Projekt von Abijeet Pol und Midhu S. Valsan*)
  &nbsp;
 ---
 ### **Konzept**
