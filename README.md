@@ -1,9 +1,7 @@
 # Klangfarben
 #### (*Ein Projekt von Lisa Umlauft,Alexander Konrad und Janina D. Lettow*)
  &nbsp;
- 
- [link text](https://www.behance.net/gallery/17327583/Klangfarben?tracking_source=search_projects_recommended%7Cphysical%20computing)
- 
+
 ---
 ### **Konzept**
 ---
@@ -27,7 +25,7 @@ Ziel ist das Zufällige Abspielen von Liedern und eine Untermalung der Atmosphä
 
  &nbsp;
 Das Projekt zum nachlesen:
-<https://www.behance.net/gallery/17327583/Klangfarben?tracking_source=search_projects_recommended%7Cphysical%20computing>
+[Hier mehr über das Projekt erfahren](https://www.behance.net/gallery/17327583/Klangfarben?tracking_source=search_projects_recommended%7Cphysical%20computing)
 
  &nbsp;
 ---
