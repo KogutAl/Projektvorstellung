@@ -2,7 +2,7 @@
 #### (*Ein Projekt von Lisa Umlauft,Alexander Konrad und Janina D. Lettow*)
  &nbsp;
 
-![bild beschreibung](https://mir-s3-cdn-cf.behance.net/project_modules/disp/44c08617327583.562b89aa4da9f.jpg)
+![Bild zeigt Hand die Apparatur nutzen](https://mir-s3-cdn-cf.behance.net/project_modules/disp/44c08617327583.562b89aa4da9f.jpg)
 
 ---
 ### **Konzept**
@@ -33,6 +33,10 @@ Ziel ist das Zufällige Abspielen von Liedern und eine Untermalung der Atmosphä
 # Emotion Sensing
 #### (*Ein Projekt von Abijeet Pol und Midhu S. Valsan*)
  &nbsp;
+ 
+ 
+![Das Konzept des Gerätes in Form eines Gramophons](https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/0fba0733332439.56a8df1ca9c53.jpg)
+ 
 ---
 ### **Konzept**
 ---
@@ -62,5 +66,4 @@ Ein LCD- Bildschirm zeigt die Ermessene Emotion an.
 
 
  &nbsp;
-Das Projekt zum nachlesen:
-<https://www.behance.net/gallery/33332439/Physical-Computing?tracking_source=search_projects_recommended%7Cphysical%20computing>
+[Hier mehr über das Projekt erfahren](https://www.behance.net/gallery/33332439/Physical-Computing?tracking_source=search_projects_recommended%7Cphysical%20computing)
