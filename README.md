@@ -9,7 +9,6 @@
 ---
 Kreiere eine Playlist, weise Farben hinzu und kombiniere bis zu 8 von diesen auf einer kleinen Disc mit RFID tags.
 
-RFID-Tag =
 
 - Technologie für Sender-Empfänger-Systeme
 - kontaktlose Lokaliserung und Übermittlung von Daten
