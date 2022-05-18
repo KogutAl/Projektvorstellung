@@ -2,7 +2,7 @@
 #### (*Ein Projekt von Lisa Umlauft,Alexander Konrad und Janina D. Lettow*)
  &nbsp;
 
-![bild beschreibung](https://mir-s3-cdn-cf.behance.net/project_modules/disp/34d89f17327583.562b89b1ad3de.jpg)
+![bild beschreibung](https://mir-s3-cdn-cf.behance.net/project_modules/disp/44c08617327583.562b89aa4da9f.jpg)
 
 ---
 ### **Konzept**
