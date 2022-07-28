@@ -67,12 +67,13 @@ Ein LCD- Bildschirm zeigt die Ermessene Emotion an.
  &nbsp;
 [Hier mehr über das Projekt erfahren](https://www.behance.net/gallery/33332439/Physical-Computing?tracking_source=search_projects_recommended%7Cphysical%20computing)
 
-
+ &nbsp;
+---
 # Neopixel LED Mirror
 #### (*Ein Projekt von User"Super Make Something*)
  &nbsp;
 
-![Personenabbild wird mit LEDs wiedergegeben](![image](https://user-images.githubusercontent.com/105751118/181501305-6d31a85a-d7c0-442f-84c8-39da03c55ec0.png)
+![Personenabbild wird mit LEDs wiedergegeben](https://user-images.githubusercontent.com/105751118/181501305-6d31a85a-d7c0-442f-84c8-39da03c55ec0.png)
 )
 
 ---
