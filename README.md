@@ -66,3 +66,33 @@ Ein LCD- Bildschirm zeigt die Ermessene Emotion an.
 
  &nbsp;
 [Hier mehr über das Projekt erfahren](https://www.behance.net/gallery/33332439/Physical-Computing?tracking_source=search_projects_recommended%7Cphysical%20computing)
+
+
+# Neopixel LED Mirror
+#### (*Ein Projekt von User"Super Make Something*)
+ &nbsp;
+
+![Personenabbild wird mit LEDs wiedergegeben](![image](https://user-images.githubusercontent.com/105751118/181501305-6d31a85a-d7c0-442f-84c8-39da03c55ec0.png)
+)
+
+---
+### **Konzept**
+---
+
+Mit Hilfe von 3D Druck, Laser Cutting, einem Raspberry Pi, computerbasiertes Sehen (computer vision) und circa 600 Neopixel LEDs wurde ein low resolution LED Spiegel gebaut, welches das Abbild des Betrachters auf einem 9mx9m großem Grid mit 24x24 RGB LEDs, dargestellt wird.
+Dieses Projekt hat bis zur Fertigstellung 2 Jahre in Anspruch genommen un wurde auf der "Cleveland Maker Faire" 2019 in Ohio ausgestellt.
+
+ &nbsp;
+---
+### **2) Wie funktioniert Klangfarben?**
+---
+
+Man erstellt Playlist-Themes und ordnet diesen bestimmte Farben zu. Z.B. nostalgische Songs werden *blau*, Entspannung wird durch die Farbe *grün* repräsentiert.
+Durch drehen des "Records" werden Songs abgespielt. "Zufälliges Replay" verhindert hier das ständige Wiederholen der selben Songs.
+Ziel ist das Zufällige Abspielen von Liedern und eine Untermalung der Atmosphäre durch die Farblichter.
+
+ &nbsp;
+[Hier mehr über das Projekt erfahren](https://www.behance.net/gallery/17327583/Klangfarben?tracking_source=search_projects_recommended%7Cphysical%20computing)
+
+ &nbsp;
+---
