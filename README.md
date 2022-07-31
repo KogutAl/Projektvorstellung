@@ -287,5 +287,11 @@ Sie nutzen Silikonbanddraht, da dieser einfach zu biegen und drehen ist, was in 
 
  &nbsp;
 
-[Step by Step Anleitung](https://learn.adafruit.com/mini-gif-players/)
+[Das Projekt](https://learn.adafruit.com/mini-gif-players/)
+ &nbsp;
+ 
+[Das Zusammenbauen](https://learn.adafruit.com/mini-gif-players/assemble)
+ &nbsp;
+
+[Das Programmieren](https://learn.adafruit.com/mini-gif-players/coding-the-mini-gif-players)
  &nbsp;
