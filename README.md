@@ -28,6 +28,7 @@ Ziel ist das Zufällige Abspielen von Liedern und eine Untermalung der Atmosphä
 [Hier mehr über das Projekt erfahren](https://www.behance.net/gallery/17327583/Klangfarben?tracking_source=search_projects_recommended%7Cphysical%20computing)
 
  &nbsp;
+ 
 ---
 # Emotion Sensing
 #### (*Ein Projekt von Abijeet Pol und Midhu S. Valsan*)
@@ -67,6 +68,7 @@ Ein LCD- Bildschirm zeigt die Ermessene Emotion an.
 [Hier mehr über das Projekt erfahren](https://www.behance.net/gallery/33332439/Physical-Computing?tracking_source=search_projects_recommended%7Cphysical%20computing)
 
  &nbsp;
+ 
 ---
 # Neopixel LED Mirror
 #### (*Ein Projekt von User "Super Make Something"*)
@@ -176,6 +178,7 @@ while 1:
     pixels=imageToLED(discretizedImage,pixels) #Convert the image to an LED value array and assign them to the string of Neopixels
     pixels.show() #Light up the LEDs
 
+ &nbsp;
 
 [Hier mehr über das Projekt erfahren](https://blog.adafruit.com/2019/12/27/neopixel-led-mirror-python-raspberry-pi-arduino-3d-printing-laser-cutting-diy-how-to-raspberry_pi-piday-raspberrypi/)
  &nbsp;
@@ -233,12 +236,11 @@ Flash Aruino with code.
 Insert sonar sensors into case and use glue gun to affix them.
 
 Insert ws2812b rgb through top square hole in case and use glue gun to glue it to case."
-
- &nbsp;
+nbsp;
 
 [Eine ausführliche Git-Doku](https://github.com/thinklearndo/rgb_distance)
-
  &nbsp;
+ 
 ---
 # Mini GIF Player
 #### (*Ein Projekt von User "Ruiz Brothers"*)
