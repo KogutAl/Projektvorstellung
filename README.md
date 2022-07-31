@@ -42,7 +42,6 @@ Ziel ist das Zufällige Abspielen von Liedern und eine Untermalung der Atmosphä
 Ein Apparat, welches Emotionen erkennt und dazu passende Musik abspielt. Aussehen soll dieses wie ein Gramophon, in dessen Box sich der Motor befindet und Sensoren innerhalb des Zylinderschafts, welches zum Ausgabekörper führt.
 Der User muss seine Hand in die Apparatur stecken, wobei es für jeden Finger ein seperater Slot vorgesehen ist. In jedem dieser Slots befindet sich ein Sensor.
 Ein LCD- Bildschirm zeigt die Ermessene Emotion an.
-
  &nbsp;
  
 ---
@@ -63,7 +62,6 @@ Ein LCD- Bildschirm zeigt die Ermessene Emotion an.
 
  **Bluetooth Modul**
  - zur Übermittlung der Daten an einen Computer
-
 
  &nbsp;
 [Hier mehr über das Projekt erfahren](https://www.behance.net/gallery/33332439/Physical-Computing?tracking_source=search_projects_recommended%7Cphysical%20computing)
