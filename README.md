@@ -215,7 +215,7 @@ Ein auf Distanz basierendes Farbwechsel-Projekt. Drei Sonar Sensoren messen den 
 
 
 
-[Eine ausfürhliche Git-Doku](https://github.com/thinklearndo/rgb_distance)
+[Eine ausführliche Git-Doku](https://github.com/thinklearndo/rgb_distance)
  &nbsp;
 
  
@@ -263,14 +263,29 @@ Dieses Projekt nutzt CircuitPythons USB Massenspeicher Kapazität um eine Flas D
 ### **Komponenten**
 ---
 
-- 3x Sonar Sensoren
-- 1x Arduino uno
-- 1x ws2812b rbg led
-- Anschlussdrähte
-- 3d gedruckte Hülle und Stern
-- Heißklebepistole
+- Adafruit Feather RP2040
+- Adafruit 1.47" 320x172 Round Rectangle Color IPS TFT Display
+- Lithium Ion Polymer Battery with Short Cable - 3.7V 420mAh
+- Breadboard-friendly SPDT Slide Switch
+- Adafruit 1.9" 320x170 Color IPS TFT Display
+- 1 x USB Cable A to C
+- 8 x M2.5x6mm Schrauben
+- 
+ &nbsp;
+ 
+---
+### **Schaltplan und Verbindung**
+---
+ &nbsp;
+
+![Schaltplan für 1.47 Display](https://cdn-learn.adafruit.com/assets/assets/000/112/142/large1024/projects_1.4_CircuitPython-feather2040-fritz.jpg?1653935309)
+
+Die Kreatoren weisen darauf hin, dass Drähte abgemessen und so abgeschnitten werden sollten, dass noch genügend Material übrig ist, um die einzelnen Komonenten zu verbinden.
+
+Sie nutzen Silikonbanddraht, da dieser einfach zu biegen und drehen ist, was in solch einem kleinen Raum sehr wichtig ist für eine möglichst angenehme Handhabung ist.
 
 
+ &nbsp;
 
-[Eine ausfürhliche Git-Doku](https://github.com/thinklearndo/rgb_distance)
+[Step by Step Anleitung](https://learn.adafruit.com/mini-gif-players/)
  &nbsp;
