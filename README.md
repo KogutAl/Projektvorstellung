@@ -210,9 +210,6 @@ Ein auf Distanz basierendes Farbwechsel-Projekt. Drei Sonar Sensoren messen den 
 - 3d gedruckte Hülle und Stern
 - Heißklebepistole
 
-
-
-[Eine ausführliche Git-Doku](https://github.com/thinklearndo/rgb_distance)
  &nbsp;
 
  
@@ -237,6 +234,9 @@ Insert sonar sensors into case and use glue gun to affix them.
 
 Insert ws2812b rgb through top square hole in case and use glue gun to glue it to case."
 
+ &nbsp;
+
+[Eine ausführliche Git-Doku](https://github.com/thinklearndo/rgb_distance)
 
  &nbsp;
 ---
