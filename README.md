@@ -15,7 +15,9 @@ Kreiere eine Playlist, weise Farben hinzu und kombiniere bis zu 8 von diesen auf
 - Senden durch Antenne oder Mikrochip
 - Senden durch integrierte Schaltung (IC) möglich
 - Mikrochip wird mit den gewünschten Daten beschrieben
+- 
  &nbsp;
+ 
 ---
 ### **2) Wie funktioniert Klangfarben?**
 ---
@@ -44,6 +46,7 @@ Ziel ist das Zufällige Abspielen von Liedern und eine Untermalung der Atmosphä
 Ein Apparat, welches Emotionen erkennt und dazu passende Musik abspielt. Aussehen soll dieses wie ein Gramophon, in dessen Box sich der Motor befindet und Sensoren innerhalb des Zylinderschafts, welches zum Ausgabekörper führt.
 Der User muss seine Hand in die Apparatur stecken, wobei es für jeden Finger ein seperater Slot vorgesehen ist. In jedem dieser Slots befindet sich ein Sensor.
 Ein LCD- Bildschirm zeigt die Ermessene Emotion an.
+
  &nbsp;
  
 ---
@@ -84,6 +87,7 @@ Ein LCD- Bildschirm zeigt die Ermessene Emotion an.
 
 Mit Hilfe von 3D Druck, Laser Cutting, einem Raspberry Pi, computerbasiertes Sehen (computer vision) und circa 600 Neopixel LEDs wurde ein low resolution LED Spiegel gebaut, welches das Abbild des Betrachters auf einem 9mx9m großem Grid mit 24x24 RGB LEDs, dargestellt wird.
 Dieses Projekt hat bis zur Fertigstellung 2 Jahre in Anspruch genommen un wurde auf der "Cleveland Maker Faire" 2019 in Ohio ausgestellt.
+
  &nbsp;
  
 ---
@@ -102,7 +106,6 @@ Dieses Projekt hat bis zur Fertigstellung 2 Jahre in Anspruch genommen un wurde 
 - 16x Monategitter (laser cut)
 - 1x 5V 30A Energiequelle
 - 1x PC Netzkabel
-
 
  &nbsp;
  
@@ -187,7 +190,6 @@ while 1:
  
 [Hier der Projektverlauf auf Youtube](https://www.youtube.com/watch?v=Ew0HmLy_Td8)
 
-
  &nbsp;
 
 ---
@@ -218,6 +220,7 @@ Dieses Projekt nutzt CircuitPythons USB Massenspeicher Kapazität um eine Flas D
 - Adafruit 1.9" 320x170 Color IPS TFT Display
 - 1 x USB Cable A to C
 - 8 x M2.5x6mm Schrauben
+
  &nbsp;
  
 ---
