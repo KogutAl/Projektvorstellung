@@ -179,10 +179,8 @@ while 1:
     pixels=imageToLED(discretizedImage,pixels) #Convert the image to an LED value array and assign them to the string of Neopixels
     pixels.show() #Light up the LEDs
 
- &nbsp;
- 
-[Hier mehr über das Projekt erfahren](https://blog.adafruit.com/2019/12/27/neopixel-led-mirror-python-raspberry-pi-arduino-3d-printing-laser-cutting-diy-how-to-raspberry_pi-piday-raspberrypi/)
 
+[Hier mehr über das Projekt erfahren](https://blog.adafruit.com/2019/12/27/neopixel-led-mirror-python-raspberry-pi-arduino-3d-printing-laser-cutting-diy-how-to-raspberry_pi-piday-raspberrypi/)
  &nbsp;
  
 [Hier der Projektverlauf auf Youtube](https://www.youtube.com/watch?v=Ew0HmLy_Td8)
