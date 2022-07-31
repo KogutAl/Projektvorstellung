@@ -44,6 +44,7 @@ Der User muss seine Hand in die Apparatur stecken, wobei es für jeden Finger ei
 Ein LCD- Bildschirm zeigt die Ermessene Emotion an.
 
  &nbsp;
+ 
 ---
 ### **2) Komponenten?**
 ---
