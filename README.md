@@ -109,11 +109,11 @@ Dieses Projekt hat bis zur Fertigstellung 2 Jahre in Anspruch genommen un wurde 
  &nbsp;
  
 ---
-### **Der Code**
+### **Der Code** [Seperater Git-Link](https://github.com/SuperMakeSomething/neopixel-led-mirror)
 ---
 
 #!/usr/bin/env python3
-# -*- coding: utf-8 -*-
+**coding: utf-8**
 """
 Neopixel LED Mirror Image Display Code (Neopixel LED Mirror - Super Make Something Episode 20) - https://youtu.be/Ew0HmLy_Td8
 by: Alex - Super Make Something
@@ -123,7 +123,7 @@ license: Creative Commons - Attribution - Non Commercial.  More information at: 
 description: This script loads a desired image and displays it on the Neopixel Mirror
 """
 
-# Import required libraries
+**Import required libraries**
 from PIL import Image
 import numpy as np
 import board
