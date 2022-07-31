@@ -106,7 +106,7 @@ Dieses Projekt hat bis zur Fertigstellung 2 Jahre in Anspruch genommen un wurde 
  &nbsp;
  
 ---
-### **Der Code** [Seperater Git-Link - ](https://github.com/SuperMakeSomething/neopixel-led-mirror)
+### **Der Code - ** [Seperater Git-Link](https://github.com/SuperMakeSomething/neopixel-led-mirror)
 ---
 
 #!/usr/bin/env python3
@@ -181,5 +181,7 @@ while 1:
 
  &nbsp;
 [Hier mehr über das Projekt erfahren](https://blog.adafruit.com/2019/12/27/neopixel-led-mirror-python-raspberry-pi-arduino-3d-printing-laser-cutting-diy-how-to-raspberry_pi-piday-raspberrypi/)
+
  &nbsp;
+ 
 [Hier die Dokumentation auf Youtube](https://www.youtube.com/watch?v=Ew0HmLy_Td8)
