@@ -25,6 +25,7 @@ Durch drehen des "Records" werden Songs abgespielt. "Zufälliges Replay" verhind
 Ziel ist das Zufällige Abspielen von Liedern und eine Untermalung der Atmosphäre durch die Farblichter.
 
  &nbsp;
+ 
 [Hier mehr über das Projekt erfahren](https://www.behance.net/gallery/17327583/Klangfarben?tracking_source=search_projects_recommended%7Cphysical%20computing)
 
  &nbsp;
@@ -65,6 +66,7 @@ Ein LCD- Bildschirm zeigt die Ermessene Emotion an.
  - zur Übermittlung der Daten an einen Computer
 
  &nbsp;
+ 
 [Hier mehr über das Projekt erfahren](https://www.behance.net/gallery/33332439/Physical-Computing?tracking_source=search_projects_recommended%7Cphysical%20computing)
 
  &nbsp;
