@@ -15,7 +15,7 @@ Kreiere eine Playlist, weise Farben hinzu und kombiniere bis zu 8 von diesen auf
 - Senden durch Antenne oder Mikrochip
 - Senden durch integrierte Schaltung (IC) möglich
 - Mikrochip wird mit den gewünschten Daten beschrieben
-- 
+
  &nbsp;
  
 ---
