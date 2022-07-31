@@ -184,3 +184,44 @@ while 1:
  &nbsp;
  
 [Hier der Projektverlauf auf Youtube](https://www.youtube.com/watch?v=Ew0HmLy_Td8)
+
+
+ &nbsp;
+---
+# RGB Sensor Project
+#### (*Ein Projekt von User "thinklearndo"*)
+ &nbsp;
+
+![Sensor und RGB Stern](https://cdn-blog.adafruit.com/uploads/2022/07/Untitledx-58.png)
+
+---
+### **Konzept**
+---
+
+Ein auf Distanz basierendes Farbwechsel-Projekt. Drei Sonar Sensoren messen den Abstand von Objekten zum jeweiligen Sensor, bei dem der gemessene Abstand jedes einzelnen Sensors, auf einem anderen Farbkanal korrespondieren.
+
+ &nbsp;
+ 
+---
+### **Komponenten**
+---
+
+- 3x Sonar Sensoren
+- 1x Arduino uno
+- 1x ws2812b rbg led
+- Anschlussdrähte
+- 3d gedruckte Hülle und Stern
+- Heißklebepistole
+
+
+
+[Eine ausfürhliche Git-Doku](https://github.com/thinklearndo/rgb_distance)
+ &nbsp;
+
+ 
+---
+### **Schaltplan und Verbindung**
+---
+ &nbsp;
+
+![Schaltplan](https://raw.githubusercontent.com/thinklearndo/rgb_distance/main/images/circuit_layout.png)
