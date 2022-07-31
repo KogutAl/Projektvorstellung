@@ -239,3 +239,38 @@ Flash Aruino with code.
 Insert sonar sensors into case and use glue gun to affix them.
 
 Insert ws2812b rgb through top square hole in case and use glue gun to glue it to case."
+
+
+ &nbsp;
+---
+# Mini GIF Player
+#### (*Ein Projekt von User "Ruiz Brothers"*)
+ &nbsp;
+
+![Kleine Bildschirme auf dem GIFs abgespielt werden](https://i.ytimg.com/vi/G8YGo2eVU8M/maxresdefault.jpg)
+
+---
+### **Konzept**
+---
+
+Mit Hilfe von CircuitPython und Ardunio entstanden diese kleinen GIF Player. 
+Diese 3D gedruckten Gehäuse wurden optisch dem dem Vorbil eines Retro Fernsehers und eines tragbaren Gaming Konsole entworfen, welche GIFs abspielen können.
+Dieses Projekt nutzt CircuitPythons USB Massenspeicher Kapazität um eine Flas Drive zu imitieren, damit GIFs einfach per Drag & Drop übernommen werden können.
+
+ &nbsp;
+ 
+---
+### **Komponenten**
+---
+
+- 3x Sonar Sensoren
+- 1x Arduino uno
+- 1x ws2812b rbg led
+- Anschlussdrähte
+- 3d gedruckte Hülle und Stern
+- Heißklebepistole
+
+
+
+[Eine ausfürhliche Git-Doku](https://github.com/thinklearndo/rgb_distance)
+ &nbsp;
