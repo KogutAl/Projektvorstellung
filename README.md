@@ -80,7 +80,6 @@ Ein LCD- Bildschirm zeigt die Ermessene Emotion an.
 
 Mit Hilfe von 3D Druck, Laser Cutting, einem Raspberry Pi, computerbasiertes Sehen (computer vision) und circa 600 Neopixel LEDs wurde ein low resolution LED Spiegel gebaut, welches das Abbild des Betrachters auf einem 9mx9m großem Grid mit 24x24 RGB LEDs, dargestellt wird.
 Dieses Projekt hat bis zur Fertigstellung 2 Jahre in Anspruch genommen un wurde auf der "Cleveland Maker Faire" 2019 in Ohio ausgestellt.
-
  &nbsp;
  
 ---
