@@ -102,9 +102,6 @@ Dieses Projekt hat bis zur Fertigstellung 2 Jahre in Anspruch genommen un wurde 
 - 1x 5V 30A Energiequelle
 - 1x PC Netzkabel
 
- &nbsp;
-[Hier mehr über das Projekt erfahren](https://blog.adafruit.com/2019/12/27/neopixel-led-mirror-python-raspberry-pi-arduino-3d-printing-laser-cutting-diy-how-to-raspberry_pi-piday-raspberrypi/)
-[Hier die Dokumentation auf Youtube](https://www.youtube.com/watch?v=Ew0HmLy_Td8)
 
  &nbsp;
  
@@ -169,6 +166,7 @@ numNeopixels_x = 24 #Declare number of Neopixels in grid
 numNeopixels_y = 24
 windowSize=(numNeopixels_x,numNeopixels_y) #Define extracted ROI size
 
+
 pixelPin=board.D18
 numPixels=numNeopixels_x*numNeopixels_y
 colorOrder = neopixel.GRB
@@ -180,3 +178,8 @@ while 1:
     discretizedImage=discretizeImage(newImageROI,noLevels) #Discretize image and scale values   
     pixels=imageToLED(discretizedImage,pixels) #Convert the image to an LED value array and assign them to the string of Neopixels
     pixels.show() #Light up the LEDs
+
+ &nbsp;
+[Hier mehr über das Projekt erfahren](https://blog.adafruit.com/2019/12/27/neopixel-led-mirror-python-raspberry-pi-arduino-3d-printing-laser-cutting-diy-how-to-raspberry_pi-piday-raspberrypi/)
+ &nbsp;
+[Hier die Dokumentation auf Youtube](https://www.youtube.com/watch?v=Ew0HmLy_Td8)
