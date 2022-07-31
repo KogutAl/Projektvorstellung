@@ -74,7 +74,6 @@ Ein LCD- Bildschirm zeigt die Ermessene Emotion an.
  &nbsp;
 
 ![Personenabbild wird mit LEDs wiedergegeben](https://user-images.githubusercontent.com/105751118/181501305-6d31a85a-d7c0-442f-84c8-39da03c55ec0.png)
-)
 
 ---
 ### **Konzept**
@@ -85,15 +84,24 @@ Dieses Projekt hat bis zur Fertigstellung 2 Jahre in Anspruch genommen un wurde 
 
  &nbsp;
 ---
-### **2) Wie funktioniert Klangfarben?**
+### **Komponenten**
 ---
 
-Man erstellt Playlist-Themes und ordnet diesen bestimmte Farben zu. Z.B. nostalgische Songs werden *blau*, Entspannung wird durch die Farbe *grün* repräsentiert.
-Durch drehen des "Records" werden Songs abgespielt. "Zufälliges Replay" verhindert hier das ständige Wiederholen der selben Songs.
-Ziel ist das Zufällige Abspielen von Liedern und eine Untermalung der Atmosphäre durch die Farblichter.
+- 1x Raspberry Pi 3 B
+- SD Karte
+- 1x Raspberry Pi Hülle
+- 1x Raspberry Pi Kamera
+- 1x Kameraflachbandkabel
+- 1X PCB Prototyp Brett
+- 36x36 cm Holzhintergrund
+- 24x NeoPixel LED Streifen mit jeweils 24 LEDs
+- 576x durchsichtige LED-Überdeckungen aus 3D Druck
+- 16x Monategitter (laser cut)
+- 1x 5V 30A Energiequelle
+- 1x PC Netzkabel
 
  &nbsp;
-[Hier mehr über das Projekt erfahren](https://www.behance.net/gallery/17327583/Klangfarben?tracking_source=search_projects_recommended%7Cphysical%20computing)
+[Hier mehr über das Projekt erfahren](https://blog.adafruit.com/2019/12/27/neopixel-led-mirror-python-raspberry-pi-arduino-3d-printing-laser-cutting-diy-how-to-raspberry_pi-piday-raspberrypi/)
+[Hier die Dokumentation auf Youtube](https://www.youtube.com/watch?v=Ew0HmLy_Td8)
 
  &nbsp;
----
