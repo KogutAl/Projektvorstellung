@@ -270,7 +270,6 @@ Dieses Projekt nutzt CircuitPythons USB Massenspeicher Kapazität um eine Flas D
 - Adafruit 1.9" 320x170 Color IPS TFT Display
 - 1 x USB Cable A to C
 - 8 x M2.5x6mm Schrauben
-- 
  &nbsp;
  
 ---
