@@ -109,7 +109,7 @@ Dieses Projekt hat bis zur Fertigstellung 2 Jahre in Anspruch genommen un wurde 
  &nbsp;
  
 ---
-### **Der Code** [Seperater Git-Link](https://github.com/SuperMakeSomething/neopixel-led-mirror)
+### **Der Code** [Seperater Git-Link - ](https://github.com/SuperMakeSomething/neopixel-led-mirror)
 ---
 
 #!/usr/bin/env python3
